@@ -1,1 +1,4 @@
 output/
+drafts/
+Makefile
+*.pyc
