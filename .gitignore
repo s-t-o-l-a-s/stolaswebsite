@@ -2,3 +2,4 @@ output/
 drafts/
 Makefile
 *.pyc
+*.pid

@@ -28,7 +28,7 @@ LINKS = (('My Github', 'https://github.com/s-t-o-l-a-s/'),
 
 # Social widget
 SOCIAL = (
-    ('Mastodon', 'https://i.write.codethat.sucks/@stolas'),
+    ('Pleroma', 'https://pleroma.site/users/stolas'),
 )
 
 DEFAULT_PAGINATION = 20

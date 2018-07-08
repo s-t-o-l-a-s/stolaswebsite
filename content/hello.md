@@ -1,7 +1,7 @@
 Title: Hello World!
 Date: 2018-03-10 19:29
 Modified: 2018-03-10 19:29
-Category: Python
+Category: Meta
 Tags: pelican, publishing
 Slug: hello-world
 Authors: Stolas
